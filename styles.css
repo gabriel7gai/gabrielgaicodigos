@@ -1,16 +1,17 @@
-/* Importando fonte Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+/* Fonte Tech */
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Share Tech Mono', monospace;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: #0d1117;
+    color: #c9d1d9;
 }
 
+/* Navbar */
 nav {
-    background-color: #2C3E50;
+    background-color: #161b22;
     padding: 15px;
     text-align: center;
 }
@@ -28,25 +29,31 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #f1c40f;
+    color: #00ffe7;
     font-weight: bold;
     font-size: 18px;
     transition: color 0.3s ease;
 }
 
 nav ul li a:hover {
-    color: #ecf0f1;
+    color: #ff00c8;
 }
 
+/* Seções */
 section {
     padding: 60px;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 1px solid #2c313a;
     text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+section:hover {
+    transform: scale(1.01);
 }
 
 h2 {
     font-size: 28px;
-    color: #34495E;
+    color: #58a6ff;
 }
 
 p {
@@ -56,10 +63,11 @@ p {
 
 /* Formulário */
 form {
-    background-color: #ffffff;
+    background: linear-gradient(145deg, #1e2329, #2c313a);
+    color: #c9d1d9;
     padding: 30px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 15px #00ffe7a6;
     width: 50%;
     margin: 0 auto;
 }
@@ -68,14 +76,16 @@ input, textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid #ccc;
+    border: 1px solid #444c56;
     border-radius: 5px;
+    background-color: #0d1117;
+    color: #c9d1d9;
     font-size: 16px;
 }
 
 button {
-    background-color: #f1c40f;
-    color: #2C3E50;
+    background-color: #00ffe7;
+    color: #0d1117;
     padding: 10px 15px;
     font-size: 18px;
     border: none;
@@ -85,5 +95,5 @@ button {
 }
 
 button:hover {
-    background-color: #d4ac0d;
+    background-color: #00bfa6;
 }
