@@ -37,3 +37,45 @@ Se quiser bater um papo sobre projetos, carros ou tecnologia:
 ---
 
 Feito por [@gabriel7gai](https://github.com/gabriel7gai)
+
+----------------------------------------------------------
+
+# 🚗 Gabiru’s Portfolio – Dev & Automotive Enthusiast
+
+Welcome to my personal portfolio!  
+This repository represents my journey as a Software Engineering student, passionate about web development, artificial intelligence, and of course — cars. From American muscle cars to the iconic legends of Brazilian mechanics 🛠️🇧🇷
+
+## 🔧 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **GitHub Pages** (for hosting)
+
+## 💡 Features
+
+- Functional contact form with direct email delivery via [FormSubmit](https://formsubmit.co/)
+- Smooth scroll "Back to Top" button
+- Visual style inspired by the digital automotive universe
+
+## 📬 Contact
+
+If you’d like to chat about projects, cars, or technology:
+
+- 📧 Email: [gabriel7santosgaai@gmail.com](mailto:gabriel7santosgaai@gmail.com)
+- 🛠️ LinkedIn, AI projects, and other networks: (coming soon)
+
+## 🚀 Roadmap
+
+- [x] Add "Back to Top" button
+- [x] Contact form with automatic email delivery
+- [ ] Integration with game/AI projects
+
+---
+
+> **About Me**  
+> My name is Gabriel, I’m 19 years old, studying Software Engineering at Uninter, and I’m deeply passionate about programming, AI, and Brazilian automotive culture. My first car is a 2001 Gol 1.0 8v, 2-door, silver with a black-wrapped roof — and it’s much more than just transportation: it’s part of my story 🚗
+
+---
+
+Made by [@gabriel7gai](https://github.com/gabriel7gai)
