@@ -97,3 +97,22 @@ button {
 button:hover {
     background-color: #00bfa6;
 }
+
+#btnTopo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #00ffe7;
+  color: #0d1117;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 50%;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px #00ffe7a1;
+  z-index: 1000;
+  transition: background 0.3s ease;
+}
+#btnTopo:hover {
+  background-color: #00bfa6;
+}
